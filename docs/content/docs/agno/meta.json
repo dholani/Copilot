@@ -1,0 +1,27 @@
+{
+  "title": "Agno",
+  "root": true,
+  "pages": [
+    "---Getting Started---",
+    "index",
+    "quickstart",
+    "vibe-coding-mcp",
+    "---Custom Look and Feel---",
+    "...custom-look-and-feel",
+    "---Guides---",
+    "agentic-chat-ui",
+    "generative-ui",
+    "shared-state",
+    "frontend-actions",
+    "multi-agent-flows",
+    "persistence",
+    "---Premium Features---",
+    "...premium",
+    "---Learn---",
+    "...concepts",
+    "---Troubleshooting---",
+    "...troubleshooting",
+    "---Other---",
+    "...(other)"
+  ]
+}
