@@ -1,0 +1,24 @@
+{
+  "title": "AutoGen2",
+  "root": true,
+  "pages": [
+    "---Getting Started---",
+    "index",
+    "quickstart",
+    "vibe-coding-mcp",
+    "---Custom Look and Feel---",
+    "...custom-look-and-feel",
+    "---Guides---",
+    "agentic-chat-ui",
+    "human-in-the-loop",
+    "frontend-actions",
+    "---Premium Features---",
+    "...premium",
+    "---Learn---",
+    "...concepts",    
+    "---Troubleshooting---",
+    "...troubleshooting",
+    "---Other---",
+    "...(other)"
+  ]
+}
